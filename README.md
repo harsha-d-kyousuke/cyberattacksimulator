@@ -96,6 +96,4 @@ This project is for educational & research purposes only.
 yaml
 Copy code
 
----
 
-👉 If you want, I can also package this into a **zip with repo structure (`index.html + README.md`)** so y
